@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Psuedomonas
-- 👀 I’m interested in biological, biomedical, biochemical research
+- 👀 I’m interested in research in and in relation to biology
 - 🌱 I’m currently learning python3
 - 💞️ I’m looking to collaborate on a project I can handle, still a bit of a noob with code
 - 📫 How to reach me: contact information is on my personal website, which is linked to my profile
